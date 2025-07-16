@@ -21,8 +21,8 @@
   "ranked_progress": "0xd0",
   "BoneArray": "0x5E8",
   "BoneCache": "0x5F8",
-  "ComponentToWorld": "0x1e0"
-  "CameraRotation": "0x160",
-  "CameraLocation": "0x170",
+  "ComponentToWorld": "0x1e0",
+  "CameraLocation": "0x160",
+  "CameraRotation": "0x170",
   "Seconds": "0x180"
 }
