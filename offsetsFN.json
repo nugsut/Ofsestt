@@ -25,5 +25,7 @@
   "ComponentToWorld": "0x1e0",
   "CameraLocation": "0x160",
   "CameraRotation": "0x170",
+  "Spectators": "0xbb8",
+  "SpectatorArray": "0x108",
   "Seconds": "0x180"
 }
