@@ -1,6 +1,6 @@
 {
   "UWorld": "0x14942840",
-  "OwningGameInstance": "0x228",
+  "OwningGameInstance": "0x250",
   "LocalPlayers": "0x38",
   "PlayerController": "0x30",
   "AcknowledgedPawn": "0x350",
@@ -9,12 +9,12 @@
   "TeamIndex": "0x1291",
   "RootComponent": "0x1B0",
   "RelativeLocation": "0x138",
-  "GameState": "0x1B0",
+  "GameState": "0x1D8",
   "PlayerArray": "0x2c0",
   "PawnPrivate": "0x320",
   "Platform": "0x430",
-  "TargetedFortPawn": "0x18d0",
-  "WeaponData": "0x548",
+  "TargetedFortPawn": "0x18D0",
+  "WeaponData": "0x560",
   "CurrentWeapon": "0xAF0",
   "ProjectileSpeed": "0x21e4",
   "ProjectileGravity": "0x2574",
@@ -23,9 +23,9 @@
   "BoneArray": "0x5E8",
   "BoneCache": "0x5F8",
   "ComponentToWorld": "0x1e0",
-  "CameraLocation": "0x160",
-  "CameraRotation": "0x170",
+  "CameraLocation": "0x180",
+  "CameraRotation": "0x190",
   "Spectators": "0xbb8",
   "SpectatorArray": "0x108",
-  "Seconds": "0x180"
+  "Seconds": "0x1A0"
 }
