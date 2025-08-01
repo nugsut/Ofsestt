@@ -1,4 +1,4 @@
-{
+  {
   "UWorld": "0x173AF320",
   "OwningGameInstance": "0x250",
   "LocalPlayers": "0x38",
@@ -25,7 +25,7 @@
   "ComponentToWorld": "0x1e0",
   "CameraLocation": "0x180",
   "CameraRotation": "0x190",
-  "Spectators": "0xbb8",
+  "Spectators": "0xB80",
   "SpectatorArray": "0x108",
   "Seconds": "0x1A0"
 }
