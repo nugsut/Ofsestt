@@ -1,5 +1,5 @@
 {
-  "UWorld": "0x17ada908",
+  "UWorld": "0x17e5c9c8",
   "OwningGameInstance": "0x250",
   "LocalPlayers": "0x38",
   "PlayerController": "0x30",
@@ -21,7 +21,7 @@
   "BoneCache": "0x5F8",
   "ComponentToWorld": "0x1e0",
   "CurrentWeapon": "0x990",
-  "WeaponData": "0x548",
-  "AmmoCount": "0x10b4",
+  "WeaponData": "0x578",
+  "AmmoCount": "0x1544",
   "Rarity": "0xA2"
 }
