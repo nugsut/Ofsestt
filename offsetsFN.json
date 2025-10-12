@@ -13,7 +13,7 @@
   "GameState": "0x1C8",
   "PlayerArray": "0x2C0",
   "PawnPrivate": "0x320",
-  "PlayerName": "0xA30",
+  "PlayerName": "0x9F8",
   "CamLoc": "0x170",
   "CamRot": "0x180",
   "Seconds": "0x190",
