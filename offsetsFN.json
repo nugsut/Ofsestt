@@ -16,7 +16,7 @@
   "PlayerName": "0x9F8",
   "CamLoc": "0x178",
   "CamRot": "0x188",
-  "Seconds": "0x190",
+  "Seconds": "0x198",
   "BoneArray": "0x5E8",
   "BoneCache": "0x5F8",
   "ComponentToWorld": "0x1e0",
