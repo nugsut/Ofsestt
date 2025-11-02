@@ -5,8 +5,8 @@
   "PlayerController": "0x30",
   "AcknowledgedPawn": "0x350",
   "Mesh": "0x330",
-  "PlayerState": "0x2C8",
-  "TeamIndex": "0x1191",
+  "PlayerState": "0x2d0",
+  "TeamIndex": "0x11a9",
   "RootComponent": "0x1B0",
   "Platform": "0x440",
   "RelativeLocation": "0x140",
@@ -23,5 +23,5 @@
   "CurrentWeapon": "0x990",
   "WeaponData": "0x5b0",
   "AmmoCount": "0x1174",
-  "Rarity": "0xA2"
+  "Rarity": "0xAA"
 }
