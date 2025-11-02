@@ -24,5 +24,7 @@
   "CurrentWeapon": "0x990",
   "WeaponData": "0x5b0",
   "AmmoCount": "0x1174",
-  "Rarity": "0xAA"
+  "Rarity": "0xAA",
+  "ProjectileSpeed": "0x24F4",
+  "ProjectileGravity": "0x24F8"
 }
