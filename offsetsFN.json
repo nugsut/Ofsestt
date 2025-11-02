@@ -25,6 +25,7 @@
   "WeaponData": "0x5d0",
   "AmmoCount": "0x1494",
   "Rarity": "0xAA",
+  "TargetedFortPawn": "0x1820",
   "ProjectileSpeed": "0x24F4",
   "ProjectileGravity": "0x24F8"
 }
