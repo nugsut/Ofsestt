@@ -30,7 +30,7 @@
   "ProjectileGravity": "0x24F8",
   "ServerWorldTimeSecondsDelta": "0x2e8",
   "GNames": "0x167B6600",
-  "AActors": "0x128",
+  "AActors": "0x38",
   "PersistentLevel": "0x38",
   "PrimaryPickupItemEntry": "0x3A8"
 }
