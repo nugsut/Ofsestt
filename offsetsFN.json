@@ -35,7 +35,7 @@
   "PrimaryPickupItemEntry": "0x3A8",
   "OverlappingBuildings": "0x1D48",
   "Levels": "0x1E0",
-  "Actors": "0xE0C",
+  "Actors": "0xA0",
   "Spectators": "0xa98",
   "SpectatorArray": "0x108"
 }
