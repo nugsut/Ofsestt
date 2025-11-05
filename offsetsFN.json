@@ -26,11 +26,12 @@
   "AmmoCount": "0x14D4",
   "Rarity": "0xAA",
   "TargetedFortPawn": "0x1820",
-  "ProjectileSpeed": "0x24F4",
-  "ProjectileGravity": "0x24F8",
+  "ProjectileSpeed": "0x2644",
+  "ProjectileGravity": "0x2648",
   "ServerWorldTimeSecondsDelta": "0x2e8",
   "GNames": "0x16C1C5C0",
   "AActors": "0xA0",
   "PersistentLevel": "0x38",
-  "PrimaryPickupItemEntry": "0x3A8"
+  "PrimaryPickupItemEntry": "0x3A8",
+  "OverlappingBuildings": "0x1D48"
 }
