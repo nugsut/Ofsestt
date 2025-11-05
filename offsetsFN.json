@@ -34,7 +34,7 @@
   "PersistentLevel": "0x38",
   "PrimaryPickupItemEntry": "0x3A8",
   "OverlappingBuildings": "0x1D48",
-  "Levels": "0xF4C",
+  "Levels": "0x1E0",
   "Actors": "0xE0C",
   "Spectators": "0xa98",
   "SpectatorArray": "0x108"
