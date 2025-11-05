@@ -33,5 +33,7 @@
   "AActors": "0xA0",
   "PersistentLevel": "0x38",
   "PrimaryPickupItemEntry": "0x3A8",
-  "OverlappingBuildings": "0x1D48"
+  "OverlappingBuildings": "0x1D48",
+  "Spectators": "0xa98",
+  "SpectatorArray": "0x108"
 }
