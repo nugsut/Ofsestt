@@ -30,12 +30,12 @@
   "ProjectileGravity": "0x2648",
   "ServerWorldTimeSecondsDelta": "0x2e8",
   "GNames": "0x17136200",
-  "AActors": "0xA0",
+  "AActors": "0x168",
   "PersistentLevel": "0x40",
   "PrimaryPickupItemEntry": "0x3A8",
   "OverlappingBuildings": "0x1D48",
   "Levels": "0x1e8",
-  "Actors": "0xA0",
+  "Actors": "0x168",
   "Spectators": "0xa98",
   "SpectatorArray": "0x108"
 }
