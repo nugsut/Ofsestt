@@ -18,7 +18,7 @@
   "CamRot": "0x188",
   "CameraFOV": "0x3B4",
   "Seconds": "0x198",
-  "BoneArray": "0x5F8",
+  "BoneArray": "0x5f0",
   "BoneCache": "0x5F8",
   "ComponentToWorld": "0x1e0",
   "CurrentWeapon": "0x990",
