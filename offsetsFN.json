@@ -12,7 +12,7 @@
   "RelativeLocation": "0x140",
   "GameState": "0x1d0",
   "PlayerArray": "0x2C8",
-  "PawnPrivate": "0x320",
+  "PawnPrivate": "0x328",
   "PlayerName": "0xA00",
   "CamLoc": "0x178",
   "CamRot": "0x188",
